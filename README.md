@@ -36,7 +36,7 @@ I have created one R script called run_analysis.R that does the following.
 
 ## What you find in this repository
 
-* __CodeBook.md__: information about raw and tidy data set and elaboration made to
+* __CodeBook.rmd__: information about raw and tidy data set and elaboration made to
   transform them
 * __LICENSE__: license terms for text and code
 * __README.md__: this file
